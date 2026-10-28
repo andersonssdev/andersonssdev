@@ -37,10 +37,7 @@ Meu objetivo é me desenvolver profissionalmente na área de TI, adquirir experi
 
 ---
 
-## Projeto em destaque
 
-### DevNetwork
 
-Projeto acadêmico de uma rede social para programadores, desenvolvido com HTML e CSS.
 
 [Ver repositório](https://github.com/andersonsdev)
